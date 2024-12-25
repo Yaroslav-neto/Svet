@@ -1,4 +1,5 @@
  # Это я
+ ![alt text](IMG_8745-1.jpg)
 **Svetlenko**
 **Yaroslav**
 **Aleksandrovich**
