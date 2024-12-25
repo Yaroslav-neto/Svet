@@ -1,5 +1,6 @@
  # Это я
- ![alt text](IMG_8745-1.jpg)
+
+ <image src="IMG_8745-1.jpg" alt="Вот этот">
 **Svetlenko**
 **Yaroslav**
 **Aleksandrovich**
