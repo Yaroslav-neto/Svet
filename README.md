@@ -1,4 +1,4 @@
- <image src="IMG_8745.jpg" alt= align="left">
+ <image src="IMG_8745.jpg" alt= "" align="left">
 Светленко Ярослав Александрович
 День моего рождения 30.08.1977
 
