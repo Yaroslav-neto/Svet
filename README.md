@@ -1,4 +1,4 @@
- <image src="IMG_8745.jpg" alt="" align="left" height="120"/>
+ <image src="IMG_8745.jpg" alt="" align="left" height="180"/>
 
   <h1 style= "text-align: center; color:blue"> Инженер по тестированию</h1>
 <hr>   <br>
