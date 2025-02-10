@@ -2,13 +2,11 @@
 
   <h1 style= "text-align: center; color:blue"> Инженер по тестированию</h1>
 <hr>   <br>
-
   <h2 style="text-align: center;">Светленко Ярослав Александрович </h2>
-  <hr>  
-<br>
-    <h3 style="text-align: left"><i>Разбираюсь в</i></h3> <br>
+  <hr><br>
+  <h3 style="text-align: left;"><i>Разбираюсь в</i></h3> <br>
  HTML, Java<br>
-   <h3 style="text-align: left"><i>Использую в работе🛠</i></h3> <br>
+  <h3 style="text-align: left"><i>Использую в работе🛠</i></h3> <br>
 DevTools, Postman, JMeter, IntelliJ IDEA, Git <br>
  <h3 style="text-align: left"><i>Мои работы/публичные репозитории</i></h3><br>
  <i>https://github.com/Yaroslav-neto?tab=repositories.</i> <br>
