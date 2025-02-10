@@ -4,7 +4,8 @@
 <hr>   <br>
 
   <h2 style="text-align: center;">Светленко Ярослав Александрович </h2>
-  <hr>
+  <hr>  
+<br>
     <h3 style="text-align: left"><i>Разбираюсь в</i></h3> <br>
  HTML, Java<br>
    <h3 style="text-align: left"><i>Использую в работе🛠</i></h3> <br>
