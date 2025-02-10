@@ -1,22 +1,17 @@
  <image src="IMG_8745.jpg" alt="" align="left" height="120"/>
 
-  # <p style= "text-align: center; color:blue"> Инженер по тестированию</p>
-<hr>     
+  <h1 style= "text-align: center; color:blue"> Инженер по тестированию</h1>
+<hr>   <br>
 
-  ##  <p style="text-align: center;">Светленко Ярослав Александрович </p>
-  <hr>  
-  
-   ### *Разбираюсь в*  
-
+  <h2 style="text-align: center;">Светленко Ярослав Александрович </h2>
+  <hr> <br>
+    <h3 style="text-align: left"><i>Разбираюсь в</i></h3> <br>
  HTML, Java<br>
-  ###  *Использую в работе* 🛠  
-  
-DevTools, Postman, JMeter, IntelliJ IDEA, Git
-  ### *Мои работы/публичные репозитории*
- *https://github.com/Yaroslav-neto?tab=repositories.*  
- <!--Мигание-->
-  ### *Связь со мной:*  
-  
+   <h3 style="text-align: left"><i>Использую в работе🛠</i></h3> <br>
+DevTools, Postman, JMeter, IntelliJ IDEA, Git <br>
+ <h3 style="text-align: left"><i>Мои работы/публичные репозитории</i></h3><br>
+ <i>https://github.com/Yaroslav-neto?tab=repositories.</i> <br>
+ <h3 style="text-align: left"><i>Связь со мной:</i></h3> <br>
  Телефон +7 906 909 16 37.  <br>
  Email utes12.7@bk.ru.     <br>
  Телеграм @quatro30
