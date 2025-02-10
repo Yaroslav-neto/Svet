@@ -1,4 +1,4 @@
- <image src="IMG_8745.jpg" alt="" align="left" height="160"/>
+ <image src="IMG_8745.jpg" alt="" align="left" height="120"/>
 
   # <p style= "text-align: center; color:blue"> Инженер по тестированию</p>
 <hr>     
@@ -30,3 +30,4 @@ DevTools, Postman, JMeter, IntelliJ IDEA, Git
        <img width="175px" src="https://komarev.com/ghpvc/?username=Yaroslav-neto&color=DE002D">
    </a>
 </div>
+
