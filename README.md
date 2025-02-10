@@ -1,22 +1,27 @@
- <image src="IMG_8745.jpg" alt="" align="left">
+ <image src="IMG_8745.jpg" alt="" align="left" height="160"/>
 
-  # <h1> <span style="color:blue"> Инженер по тестированию, тестировщик</span> </h1> <br> 
-_________________________________________       
+  # <p style= "text-align: center; color:blue"> Инженер по тестированию</span>
+<hr>     
 
-  ## <h2> Светленко Ярослав Александрович</h2> <br>               
-
-  #### <h4>*День рождения* 30.08.1977 </h4> <br>
-
-  ### <h3> *Работаю с*</h3>  <br>
- DevTools, Postman, JMeter, IntelliJ IDEA, Git.<br>
-
-  ### <h3> *Использую в работе*</h3>  <br>
- HTML, Java.  <br>
-
-  ### <h3>*Мои публичные репозитории*</h3>   <br>
- *https://github.com/Yaroslav-neto?tab=repositories.*   <br>
-
- ### <h3>*Связь со мной:*</h3>  <br>
+  ##  <p style="text-align: center;">Светленко Ярослав Александрович </p>  <hr>
+  ### *Разбираюсь в* 
+ HTML, Java<br>
+  ###  *Использую в работе* 🛠
+DevTools, Postman, JMeter, IntelliJ IDEA, Git
+  ### *Мои работы/публичные репозитории*
+ *https://github.com/Yaroslav-neto?tab=repositories.*  
+ <!--Мигание-->
+  ### *Связь со мной:*
  Телефон +7 906 909 16 37.  <br>
  Email utes12.7@bk.ru.     <br>
  Телеграм @quatro30
+ 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaroslav-neto&show_icons=true&theme=transparent)
+ 
+ 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/Yaroslav-neto/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=Yaroslav-neto&color=DE002D">
+   </a>
+</div>
