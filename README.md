@@ -1,12 +1,15 @@
  <image src="IMG_8745.jpg" alt="" align="left" height="160"/>
 
-  # <p style= "text-align: center; color:blue"> Инженер по тестированию</span>
+  # <p style= "text-align: center; color:blue"> Инженер по тестированию</p>
 <hr>     
 
-  ##  <p style="text-align: center;">Светленко Ярослав Александрович </p>  <hr>
-  ### *Разбираюсь в* 
+  ##  <p style="text-align: center;">Светленко Ярослав Александрович </p>
+  <hr>
+   ### *Разбираюсь в*  
+   
  HTML, Java<br>
-  ###  *Использую в работе* 🛠
+  ###  *Использую в работе* 🛠  
+  
 DevTools, Postman, JMeter, IntelliJ IDEA, Git
   ### *Мои работы/публичные репозитории*
  *https://github.com/Yaroslav-neto?tab=repositories.*  
