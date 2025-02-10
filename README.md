@@ -9,7 +9,7 @@
   <h3 style="text-align: left"><i>Использую в работе🛠</i></h3> <br>
 DevTools, Postman, JMeter, IntelliJ IDEA, Git <br>
  <h3 style="text-align: left"><i>Мои работы/публичные репозитории</i></h3><br>
- <a href = <i>https://github.com/Yaroslav-neto?tab=repositorie></i> <br>
+ <a href = "https://github.com/Yaroslav-neto?tab=repositorie"> <br>
  <h3 style="text-align: left"><i>Связь со мной:</i></h3> <br>
  Телефон +7 906 909 16 37.  <br>
  Email utes12.7@bk.ru.     <br>
