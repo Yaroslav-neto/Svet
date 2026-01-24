@@ -10,7 +10,7 @@
 HTML, Java  
 
 ### <i>Использую в работе 🛠</i>  
-DevTools, Postman, JMeter, IntelliJ IDEA, Git  
+DevTools, Postman, JMeter, IntelliJ IDEA, Git, JUnit, Selenium, Selenide, Android Studio и Espresso, Puppeteer, Playwright, Cypress, Jenkins, Teamcity и Gitlab CI  
 
 ### <i>Мои работы/публичные репозитории</i>  
 [GitHub Репозитории](https://github.com/Yaroslav-neto?tab=repositories)  
