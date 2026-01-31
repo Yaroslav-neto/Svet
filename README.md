@@ -20,7 +20,7 @@ DevTools, Postman, JMeter, IntelliJ IDEA, Git, JUnit, Selenium, Selenide, Androi
 - **Email:** [utes12.7@bk.ru](mailto:utes12.7@bk.ru)  
 - **Телеграм:** @quatro30  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaroslav-neto&show_icons=true&theme=transparent)  
+
 
 <div align="center" style="margin: 40px 0;">  
    <a href="https://github.com/Yaroslav-neto/github-profile-views-counter">  
