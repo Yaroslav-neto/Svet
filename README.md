@@ -7,7 +7,7 @@
 <hr>  
 
 ### <i>Разбираюсь в</i>  
-HTML, Java, Kotlin, SQL 
+HTML, Java, Kotlin, Python, SQL 
 
 ### <i>Использую в работе 🛠</i>  
 DevTools, Postman, JMeter, IntelliJ IDEA, Git, JUnit, Selenium, Selenide, Android Studio и Espresso, Puppeteer, Playwright, Cypress, Jenkins, Teamcity и Gitlab CI  
