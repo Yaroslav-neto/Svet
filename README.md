@@ -1,4 +1,4 @@
-# 👨‍💻 Инженер по автоматизации тестирования (QA Automation)
+# 👨‍💻 QA Automation Engineer
 
 <img src="https://github.com/Yaroslav-neto/Svet/blob/main/IMG_8745.jpg" alt="Profile Image" align="left" height="180" style="margin-right: 20px; border-radius: 10px;"/>  
 
