@@ -1,63 +1,64 @@
-<img src="IMG_8745.jpg" alt="Profile Image" align="left" height="180" style="margin-right: 20px;"/>  
+# 👨‍💻 Инженер по автоматизации тестирования (QA Automation)
 
-# Инженер по тестированию  
-[Диплом](https://github.com/Yaroslav-neto/Svet/blob/main/Diplom.jpg)  
-<hr>  
+<img src="https://github.com/Yaroslav-neto/Svet/blob/main/IMG_8745.jpg" alt="Profile Image" align="left" height="180" style="margin-right: 20px; border-radius: 10px;"/>  
 
-## Светленко Ярослав Александрович  
-<hr>  
+**Светленко Ярослав Александрович**  
+Специализируюсь на создании надежных фреймворков для Web, Mobile и API.  
+Владею полным циклом: от написания тест-кейсов до настройки CI/CD и работы с БД.
 
-### <i>Разбираюсь в</i>  
-HTML, Java, Kotlin, Python, SQL 
+[📜 Посмотреть Диплом](https://github.com/Yaroslav-neto/Svet/blob/main/Diplom.jpg)
 
-### <i>Использую в работе 🛠</i>  
-DevTools, Postman, JMeter, IntelliJ IDEA, Git, JUnit, Selenium, Selenide, Android Studio и Espresso, Puppeteer, Playwright, Cypress, Jenkins, Teamcity и Gitlab CI  
+<br clear="left"/>
+<hr>
 
-### <i>Мои работы/публичные репозитории</i>  
-[GitHub Репозитории](https://github.com/Yaroslav-neto?tab=repositories)  
+### 🛠 Технологический стек
 
-# Пример одного из проектов UI & API Automation Testing (Android)
+*   **Языки:** Java, Kotlin, Python, SQL (PostgreSQL/MySQL), HTML/CSS.
+*   **Web UI:** Playwright, Selenide, Selenium, Cypress, Puppeteer.
+*   **API:** Rest-Assured, Retrofit, Postman, Swagger (Contract Testing).
+*   **Mobile:** Android Studio, UI Automator, Espresso, ADB.
+*   **CI/CD & Tools:** GitHub Actions, Jenkins, Git, Allure Reports, JMeter.
 
-Проект по автоматизации тестирования мобильного приложения на платформе Android с использованием Mock-заглушек и автоматической генерации отчетов Allure.
+---
 
-## 🛠 Технический стек
-- **Инструменты:** Android Studio (Ladybug/Narwhal), Gradle.
-- **Окружение:** Pixel 4 (API 29), Android 10.0.
-- **Репорты:** Allure 2.0.
-- **Скриптинг:** PowerShell (ADB Automation) https://github.com/Yaroslav-neto/DIPLOM/blob/main/get_allure_report.ps1 и https://github.com/Yaroslav-neto/DIPLOM/blob/main/run_tests_and_report.ps1.
+### 🚀 Избранные проекты (Portfolio)
 
-## 🚀 Запуск тестов
-
-### 1. Подготовка стенда
-- Запустить эмулятор Pixel 4.
-- В Android Studio настроить **Network Rule** (Network Inspector) для хоста `students.netoservices.ru`:
-  - **Path:** `/qamid-diplom-backend/news`
-  - **Mock Body:** `{"pages": 1, "elements": []}` — это исключает влияние динамического контента на тесты.
-
-### 2. Запуск тестов и генерация отчетов
-Проект поддерживает три режима работы:
-
-| Режим | Команда | Описание |
+| Направление | Стек и описание | Ссылка на проект |
 | :--- | :--- | :--- |
-| **Автоматический** | `.\run_tests_and_report.ps1` | Полный цикл: очистка, запуск, сбор логов через ADB, генерация Allure. |
-| **Полуавтомат** | `./gradlew connectedCheck` | Запуск тестов, затем сбор отчета скриптом `.\get_allure_report.ps1`. |
-| **Ручной** | `./gradlew clean connectedCheck` | Ручное копирование результатов из `/data/data/...` через Device Explorer. |
-| После выполнения ручного копирования отчет доступен командой:| `allure serve allure-results`|
-## 📊 Результаты тестирования
-<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/cd43c33c-7b3d-4ae3-b0a0-f1f36ed8ab91" />
+| **API & CI/CD** | **Java + Rest-Assured.** Автоматизация CRUD, интеграция с **GitHub Actions** и Allure. | [🚀 API Framework](https://github.com/Yaroslav-neto/API-Automation-Framework-Java) |
+| **Mobile (Advanced)** | **Kotlin + UI Automator.** Тестирование на уровне системы Android и межпрограммного взаимодействия. | [📱 OS System UI](https://github.com/Yaroslav-neto/uiautomatora_android) |
+| **Web UI (Modern)** | **Java + Playwright.** Паттерн Page Object (POM), параллельный запуск тестов. | [⚡ Playwright Java](https://github.com/Yaroslav-neto/Web-Automation-Playwright-Java) |
+| **CMS Testing** | **Java + Selenide + Maven.** Тестирование реальной сложной системы (WordPress). | [🌐 WordPress E2E](https://github.com/Yaroslav-neto/wordpress) |
+| **External API** | **Retrofit / OkHttp.** Интеграция и тестирование публичных API (NASA API). | [🌌 NASA API Case](https://github.com/Yaroslav-neto/Nasa_Get_Picture) |
+| **API Contracts** | **Rest-Assured + JSON Schema.** Валидация контрактов и схем ответов. | [📑 Swagger Validation](https://github.com/Yaroslav-neto/Swagger) |
+| **Database** | **SQL.** Написание сложных запросов, агрегация и проверка целостности данных. | [📊 SQL Logic](https://github.com/Yaroslav-neto/SQL) |
+| **JS Automation** | **Cypress / Node.js.** E2E тестирование на JavaScript стеке. | [🧪 Cypress Test](https://github.com) |
+| **Unit / Logic** | **JUnit 5.** Параметризованные тесты и проверка бизнес-логики. | [📈 Metrics Unit](https://github.com) |
 
+---
 
+# 🤖 Deep Dive: Mobile Automation (Android)
+*Один из примеров реализации сложного UI & API фреймворка*
 
-### <i>Связь со мной:</i>  
-- **Телефон:** +7 906 909 16 37  
-- **Email:** [utes12.7@bk.ru](mailto:utes12.7@bk.ru)  
-- **Телеграм:** @quatro30  
+Проект включает использование **Mock-заглушек** (Network Inspector) и автоматизацию через PowerShell для исключения влияния динамических данных.
 
+### ⚙️ Сценарий запуска
+1. **Стенд:** Эмулятор Pixel 4 (API 29).
+2. **Автоматизация:** Запуск через `.\run_tests_and_report.ps1`.
+3. **Результат:** Сбор логов через ADB и генерация интерактивного отчета Allure.
 
+**Репозиторий проекта:** [Android Mobile Automation (Espresso)](https://github.com/Yaroslav-neto/DIPLOM)
+
+---
+
+### 📫 Связь со мной:
+*   **Телеграм:** [@quatro30](https://t.me)
+*   **Телефон:** +7 906 909 16 37
+*   **Email:** utes12.7@bk.ru
+*   **Все репозитории:** [GitHub Repositories](https://github.com/Yaroslav-neto?tab=repositories)
 
 <div align="center" style="margin: 40px 0;">  
    <a href="https://github.com/Yaroslav-neto/github-profile-views-counter">  
        <img width="175px" src="https://komarev.com/ghpvc/?username=Yaroslav-neto&color=DE002D" alt="Profile views counter">  
    </a>  
-</div>  
-
+</div>
