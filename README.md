@@ -1,7 +1,7 @@
 <img src="IMG_8745.jpg" alt="Profile Image" align="left" height="180" style="margin-right: 20px;"/>  
 
 # Инженер по тестированию  
-[Диплом]([https://github.com/Yaroslav-neto?tab=repositories](https://github.com/Yaroslav-neto/Svet/blob/main/Diplom.jpg))  
+[Диплом](https://github.com/Yaroslav-neto/Svet/blob/main/Diplom.jpg))  
 <hr>  
 
 ## Светленко Ярослав Александрович  
